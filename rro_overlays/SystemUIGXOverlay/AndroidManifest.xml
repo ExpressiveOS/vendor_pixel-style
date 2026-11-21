@@ -2,5 +2,6 @@
     package="com.google.android.systemui.gxoverlay_gms">
     <overlay android:targetPackage="com.android.systemui"
                    android:targetName="SystemUI"
-                   android:isStatic="false"/>
+                   android:isStatic="true"
+                   android:priority="1"/>
 </manifest>
