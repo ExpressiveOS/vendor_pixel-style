@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="iconColor">#ff1a73e8</color>
+    <color name="iconColor">@*android:color/system_primary_light</color>
 </resources>

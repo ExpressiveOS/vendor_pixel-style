@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="list_item_selected_background_color">@*android:color/system_accent1_900</color>
+    <color name="color_surface_header">@*android:color/system_surface_container_high_dark</color>
+    <color name="list_item_selected_background_color">@*android:color/system_secondary_container_dark</color>
     <color name="materialColorSecondary">@*android:color/system_secondary_dark</color>
     <color name="materialColorSurfaceContainer">@*android:color/system_surface_container_dark</color>
+    <color name="primary">@*android:color/system_primary_dark</color>
+    <color name="shortcut_background_m3">@*android:color/system_surface_container_low_dark</color>
+    <color name="shortcut_foreground_m3">@*android:color/system_primary_dark</color>
 </resources>
