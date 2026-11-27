@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Google Pixel Avatar Picker</string>
-    <string name="default_font_family">google-sans</string>
+    <string name="default_font_family" translatable="false">google-sans-flex</string>
     <string name="desc_ProfileIcons1">Playful illustration of two dark-green semi-circles on a light green background</string>
     <string name="desc_ProfileIcons10">Playful illustration of an orange butterfly on a yellow background</string>
     <string name="desc_ProfileIcons11">Black nose shape with rounded edges on a dark gray background</string>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <bool name="config_button_all_caps">false</bool>
+    <bool name="force_material3">true</bool>
     <bool name="handle_view_downloads_intent">false</bool>
     <bool name="is_launcher_enabled">false</bool>
+    <bool name="move_search_chip_when_selected">true</bool>
     <bool name="show_search_bar">true</bool>
+    <bool name="show_selection_checkmark">true</bool>
 </resources>

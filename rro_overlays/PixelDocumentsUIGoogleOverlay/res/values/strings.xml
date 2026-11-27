@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_fontFamily">google-sans</string>
-    <string name="config_fontFamilyMedium">google-sans-medium</string>
-    <string name="preferred_root_package">com.google.android</string>
-    <string name="trusted_quick_viewer_package">com.google.android.apps.docs</string>
+    <string name="config_fontFamily" translatable="false">@*android:string/config_bodyFontFamily</string>
+    <string name="config_fontFamilyMedium" translatable="false">@*android:string/config_bodyFontFamilyMedium</string>
+    <string name="config_headerFontFamily" translatable="false">@*android:string/config_headlineFontFamily</string>
+    <string name="config_headerFontFamilyMedium" translatable="false">@*android:string/config_headlineFontFamilyMedium</string>
+    <string name="preferred_root_package" translatable="false">com.google.android</string>
+    <string name="trusted_quick_viewer_package" translatable="false">com.google.android.apps.docs</string>
 </resources>

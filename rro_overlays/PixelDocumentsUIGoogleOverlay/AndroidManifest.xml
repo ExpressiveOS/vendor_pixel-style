@@ -2,5 +2,6 @@
     package="com.google.android.documentsui.theme.pixel_gms">
     <overlay android:targetPackage="com.google.android.documentsui"
                    android:targetName="DocumentsUICustomization"
+                   android:isStatic="true"
                    android:priority="0"/>
 </manifest>
