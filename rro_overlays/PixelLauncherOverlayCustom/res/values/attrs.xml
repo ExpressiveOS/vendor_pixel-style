@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="allAppsScrimColor" format="color|reference" />
+    <attr name="allAppsSurfaceHighest" format="color|reference" />
+    <attr name="allAppsSurfaceLow" format="color|reference" />
+    <attr name="allAppsUnselectedTab" format="color|reference" />
+    <attr name="allappsHeaderProtectionColor" format="color|reference" />
+    <attr name="bottomSheetDragHandleColor" format="color|reference" />
+    <attr name="focusHighlight" format="color|reference" />
+    <attr name="groupHighlight" format="color|reference" />
+    <attr name="privateSpaceDividerColor" format="color|reference" />
+    <attr name="privateSpaceSettingsColor" format="color|reference" />
+</resources>

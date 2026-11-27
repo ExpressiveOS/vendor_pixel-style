@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Remap shifted private @*android:color/* IDs for CP2A NexusLauncherRelease -->
+    <color name="blur_shade_panel_bg">@*android:color/shade_panel_bg</color>
+    <color name="blur_shade_panel_fg">@*android:color/shade_panel_fg</color>
+    <color name="widget_picker_sheet_background_bottom_layer_dark">@*android:color/shade_panel_scrim</color>
+    <color name="widget_picker_sheet_background_bottom_layer_light">@*android:color/shade_panel_scrim</color>
+    <color name="customColorBrandA">@*android:color/system_brand_a_light</color>
+    <color name="customColorBrandB">@*android:color/system_brand_b_light</color>
+    <color name="customColorBrandC">@*android:color/system_brand_c_light</color>
+    <color name="customColorBrandD">@*android:color/system_brand_d_light</color>
+    <color name="customColorSurfaceEffect0">@*android:color/system_surface_effect_0_light</color>
+    <color name="customColorSurfaceEffect0Fallback">@*android:color/system_surface_effect_0_fallback_light</color>
+    <color name="customColorSurfaceEffect1">@*android:color/system_surface_effect_1_light</color>
+    <color name="customColorSurfaceEffect2">@*android:color/system_surface_effect_2_light</color>
+    <color name="customColorSurfaceEffect3">@*android:color/system_surface_effect_3_light</color>
+    <color name="customColorThemeNotif">@*android:color/system_theme_notif_light</color>
+    <!-- Internal alias for AllAppsBlurStyle (not mapped in overlays.xml) -->
+    <color name="rro_material_on_surface">@android:color/system_on_surface_light</color>
+</resources>

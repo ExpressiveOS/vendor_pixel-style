@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay>
+    <!-- Dimens -->
+    <item target="dimen/config_wallpaperMaxScale" value="@dimen/config_wallpaperMaxScale" />
+    <item target="dimen/taskbar_phone_rounded_corner_content_margin" value="@dimen/taskbar_phone_rounded_corner_content_margin" />
+    <item target="dimen/taskbar_phone_size" value="@dimen/taskbar_phone_size" />
+    <item target="dimen/taskbar_size" value="@dimen/taskbar_size" />
+    <item target="dimen/taskbar_stashed_size" value="@dimen/taskbar_stashed_size" />
+    <!-- Colors -->
+    <item target="color/bg_card_gradient1_end" value="@color/bg_card_gradient1_end" />
+    <item target="color/bg_card_gradient1_start" value="@color/bg_card_gradient1_start" />
+    <item target="color/blur_shade_panel_bg" value="@color/blur_shade_panel_bg" />
+    <item target="color/blur_shade_panel_fg" value="@color/blur_shade_panel_fg" />
+    <item target="color/widget_picker_sheet_background_bottom_layer_dark" value="@color/widget_picker_sheet_background_bottom_layer_dark" />
+    <item target="color/widget_picker_sheet_background_bottom_layer_light" value="@color/widget_picker_sheet_background_bottom_layer_light" />
+    <item target="color/customColorBrandA" value="@color/customColorBrandA" />
+    <item target="color/customColorBrandB" value="@color/customColorBrandB" />
+    <item target="color/customColorBrandC" value="@color/customColorBrandC" />
+    <item target="color/customColorBrandD" value="@color/customColorBrandD" />
+    <item target="color/customColorSurfaceEffect0" value="@color/customColorSurfaceEffect0" />
+    <item target="color/customColorSurfaceEffect0Fallback" value="@color/customColorSurfaceEffect0Fallback" />
+    <item target="color/customColorSurfaceEffect1" value="@color/customColorSurfaceEffect1" />
+    <item target="color/customColorSurfaceEffect2" value="@color/customColorSurfaceEffect2" />
+    <item target="color/customColorSurfaceEffect3" value="@color/customColorSurfaceEffect3" />
+    <item target="color/customColorThemeNotif" value="@color/customColorThemeNotif" />
+    <!-- Drawables -->
+    <item target="drawable/overview_action_button_background_blur" value="@drawable/overview_action_button_background_blur" />
+    <!-- Attr keys for AllAppsBlurStyle (rewritten via OverlayDynamicRefTable) -->
+    <item target="attr/allAppsScrimColor" value="@attr/allAppsScrimColor" />
+    <item target="attr/allAppsSurfaceHighest" value="@attr/allAppsSurfaceHighest" />
+    <item target="attr/allAppsSurfaceLow" value="@attr/allAppsSurfaceLow" />
+    <item target="attr/allAppsUnselectedTab" value="@attr/allAppsUnselectedTab" />
+    <item target="attr/allappsHeaderProtectionColor" value="@attr/allappsHeaderProtectionColor" />
+    <item target="attr/bottomSheetDragHandleColor" value="@attr/bottomSheetDragHandleColor" />
+    <item target="attr/focusHighlight" value="@attr/focusHighlight" />
+    <item target="attr/groupHighlight" value="@attr/groupHighlight" />
+    <item target="attr/privateSpaceDividerColor" value="@attr/privateSpaceDividerColor" />
+    <item target="attr/privateSpaceSettingsColor" value="@attr/privateSpaceSettingsColor" />
+    <!-- Styles -->
+    <item target="style/AllAppsBlurStyle" value="@style/AllAppsBlurStyle" />
+    <item target="style/BaseIconRoot" value="@style/BaseIconRoot" />
+    <item target="style/TextHeadline" value="@style/TextHeadline" />
+</overlay>

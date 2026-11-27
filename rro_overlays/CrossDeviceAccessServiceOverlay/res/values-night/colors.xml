@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="customColorBrandA">@*android:color/system_brand_a_dark</color>
+    <color name="customColorBrandB">@*android:color/system_brand_b_dark</color>
+    <color name="customColorBrandC">@*android:color/system_brand_c_dark</color>
+    <color name="customColorBrandD">@*android:color/system_brand_d_dark</color>
+    <color name="customColorClockHour">@*android:color/system_clock_hour_dark</color>
+    <color name="customColorClockMinute">@*android:color/system_clock_minute_dark</color>
+    <color name="customColorClockSecond">@*android:color/system_clock_second_dark</color>
+    <color name="customColorOnShadeActive">@*android:color/system_on_shade_active_dark</color>
+    <color name="customColorOnShadeActiveVariant">@*android:color/system_on_shade_active_variant_dark</color>
+    <color name="customColorOnShadeInactive">@*android:color/system_on_shade_inactive_dark</color>
+    <color name="customColorOnShadeInactiveVariant">@*android:color/system_on_shade_inactive_variant_dark</color>
+    <color name="customColorOnThemeApp">@*android:color/system_on_theme_app_dark</color>
+    <color name="customColorOverviewBackground">@*android:color/system_overview_background_dark</color>
+    <color name="customColorShadeActive">@*android:color/system_shade_active_dark</color>
+    <color name="customColorShadeDisabled">@*android:color/system_shade_disabled_dark</color>
+    <color name="customColorShadeInactive">@*android:color/system_shade_inactive_dark</color>
+    <color name="customColorSurfaceEffect0">@*android:color/system_surface_effect_0_dark</color>
+    <color name="customColorSurfaceEffect0Fallback">@*android:color/system_surface_effect_0_fallback_dark</color>
+    <color name="customColorSurfaceEffect1">@*android:color/system_surface_effect_1_dark</color>
+    <color name="customColorSurfaceEffect2">@*android:color/system_surface_effect_2_dark</color>
+    <color name="customColorSurfaceEffect3">@*android:color/system_surface_effect_3_dark</color>
+    <color name="customColorThemeApp">@*android:color/system_theme_app_dark</color>
+    <color name="customColorThemeAppRing">@*android:color/system_theme_app_ring_dark</color>
+    <color name="customColorThemeNotif">@*android:color/system_theme_notif_dark</color>
+    <color name="customColorUnderSurface">@*android:color/system_under_surface_dark</color>
+    <color name="customColorWeatherTemp">@*android:color/system_weather_temp_dark</color>
+    <color name="customColorWidgetBackground">@*android:color/system_widget_background_dark</color>
+</resources>

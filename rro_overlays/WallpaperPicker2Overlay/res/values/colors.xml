@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="customColorBrandA">@*android:color/system_brand_a_light</color>
+    <color name="customColorBrandB">@*android:color/system_brand_b_light</color>
+    <color name="customColorBrandC">@*android:color/system_brand_c_light</color>
+    <color name="customColorBrandD">@*android:color/system_brand_d_light</color>
+    <color name="customColorClockHour">@*android:color/system_clock_hour_light</color>
+    <color name="customColorClockMinute">@*android:color/system_clock_minute_light</color>
+    <color name="customColorClockSecond">@*android:color/system_clock_second_light</color>
+    <color name="customColorOnShadeActive">@*android:color/system_on_shade_active_light</color>
+    <color name="customColorOnShadeActiveVariant">@*android:color/system_on_shade_active_variant_light</color>
+    <color name="customColorOnShadeInactive">@*android:color/system_on_shade_inactive_light</color>
+    <color name="customColorOnShadeInactiveVariant">@*android:color/system_on_shade_inactive_variant_light</color>
+    <color name="customColorOnThemeApp">@*android:color/system_on_theme_app_light</color>
+    <color name="customColorOverviewBackground">@*android:color/system_overview_background_light</color>
+    <color name="customColorShadeActive">@*android:color/system_shade_active_light</color>
+    <color name="customColorShadeDisabled">@*android:color/system_shade_disabled_light</color>
+    <color name="customColorShadeInactive">@*android:color/system_shade_inactive_light</color>
+    <color name="customColorSurfaceEffect0">@*android:color/system_surface_effect_0_light</color>
+    <color name="customColorSurfaceEffect0Fallback">@*android:color/system_surface_effect_0_fallback_light</color>
+    <color name="customColorSurfaceEffect1">@*android:color/system_surface_effect_1_light</color>
+    <color name="customColorSurfaceEffect2">@*android:color/system_surface_effect_2_light</color>
+    <color name="customColorSurfaceEffect3">@*android:color/system_surface_effect_3_light</color>
+    <color name="customColorThemeApp">@*android:color/system_theme_app_light</color>
+    <color name="customColorThemeAppRing">@*android:color/system_theme_app_ring_light</color>
+    <color name="customColorThemeNotif">@*android:color/system_theme_notif_light</color>
+    <color name="customColorUnderSurface">@*android:color/system_under_surface_light</color>
+    <color name="customColorWeatherTemp">@*android:color/system_weather_temp_light</color>
+    <color name="customColorWidgetBackground">@*android:color/system_widget_background_light</color>
+    <!-- Internal aliases for text styles (not mapped in overlays.xml) -->
+    <color name="rro_system_on_surface">@android:color/system_on_surface_light</color>
+    <color name="rro_system_on_surface_variant">@android:color/system_on_surface_variant_light</color>
+</resources>
