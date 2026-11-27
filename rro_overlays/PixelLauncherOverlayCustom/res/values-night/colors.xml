@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="customColorBrandA">@*android:color/system_brand_a_dark</color>
+    <color name="customColorBrandB">@*android:color/system_brand_b_dark</color>
+    <color name="customColorBrandC">@*android:color/system_brand_c_dark</color>
+    <color name="customColorBrandD">@*android:color/system_brand_d_dark</color>
+    <color name="customColorSurfaceEffect0">@*android:color/system_surface_effect_0_dark</color>
+    <color name="customColorSurfaceEffect0Fallback">@*android:color/system_surface_effect_0_fallback_dark</color>
+    <color name="customColorSurfaceEffect1">@*android:color/system_surface_effect_1_dark</color>
+    <color name="customColorSurfaceEffect2">@*android:color/system_surface_effect_2_dark</color>
+    <color name="customColorSurfaceEffect3">@*android:color/system_surface_effect_3_dark</color>
+    <color name="customColorThemeNotif">@*android:color/system_theme_notif_dark</color>
+    <color name="rro_material_on_surface">@android:color/system_on_surface_dark</color>
+</resources>

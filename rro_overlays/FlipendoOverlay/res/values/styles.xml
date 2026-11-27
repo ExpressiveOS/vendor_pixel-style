@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppEntitiesHeader.Text" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:fontFamily">@*android:string/config_headlineFontFamilyMedium</item>
+    </style>
+    <style name="AppEntitiesHeader.Text.Summary" parent="@*android:style/TextAppearance.DeviceDefault.Body1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="BorderlessButton">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@*android:drawable/btn_borderless_rect</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    <style name="TextAppearance.ErrorText" parent="@*android:style/TextAppearance.DeviceDefault.Body1">
+        <item name="android:textColor">?android:attr/colorError</item>
+    </style>
+</resources>

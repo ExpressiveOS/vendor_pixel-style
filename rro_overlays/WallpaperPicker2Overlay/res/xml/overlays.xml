@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay>
+    <item target="dimen/preview_corner_radius" value="@dimen/preview_corner_radius" />
+    <item target="color/customColorBrandA" value="@color/customColorBrandA" />
+    <item target="color/customColorBrandB" value="@color/customColorBrandB" />
+    <item target="color/customColorBrandC" value="@color/customColorBrandC" />
+    <item target="color/customColorBrandD" value="@color/customColorBrandD" />
+    <item target="color/customColorClockHour" value="@color/customColorClockHour" />
+    <item target="color/customColorClockMinute" value="@color/customColorClockMinute" />
+    <item target="color/customColorClockSecond" value="@color/customColorClockSecond" />
+    <item target="color/customColorOnShadeActive" value="@color/customColorOnShadeActive" />
+    <item target="color/customColorOnShadeActiveVariant" value="@color/customColorOnShadeActiveVariant" />
+    <item target="color/customColorOnShadeInactive" value="@color/customColorOnShadeInactive" />
+    <item target="color/customColorOnShadeInactiveVariant" value="@color/customColorOnShadeInactiveVariant" />
+    <item target="color/customColorOnThemeApp" value="@color/customColorOnThemeApp" />
+    <item target="color/customColorOverviewBackground" value="@color/customColorOverviewBackground" />
+    <item target="color/customColorShadeActive" value="@color/customColorShadeActive" />
+    <item target="color/customColorShadeDisabled" value="@color/customColorShadeDisabled" />
+    <item target="color/customColorShadeInactive" value="@color/customColorShadeInactive" />
+    <item target="color/customColorSurfaceEffect0" value="@color/customColorSurfaceEffect0" />
+    <item target="color/customColorSurfaceEffect0Fallback" value="@color/customColorSurfaceEffect0Fallback" />
+    <item target="color/customColorSurfaceEffect1" value="@color/customColorSurfaceEffect1" />
+    <item target="color/customColorSurfaceEffect2" value="@color/customColorSurfaceEffect2" />
+    <item target="color/customColorSurfaceEffect3" value="@color/customColorSurfaceEffect3" />
+    <item target="color/customColorThemeApp" value="@color/customColorThemeApp" />
+    <item target="color/customColorThemeAppRing" value="@color/customColorThemeAppRing" />
+    <item target="color/customColorThemeNotif" value="@color/customColorThemeNotif" />
+    <item target="color/customColorUnderSurface" value="@color/customColorUnderSurface" />
+    <item target="color/customColorWeatherTemp" value="@color/customColorWeatherTemp" />
+    <item target="color/customColorWidgetBackground" value="@color/customColorWidgetBackground" />
+    <item target="style/CustomizationOptionEntrySubtitleTextStyle" value="@style/CustomizationOptionEntrySubtitleTextStyle" />
+    <item target="style/CustomizationOptionEntryTitleTextStyle" value="@style/CustomizationOptionEntryTitleTextStyle" />
+    <item target="style/SectionTitleTextStyle" value="@style/SectionTitleTextStyle" />
+</overlay>

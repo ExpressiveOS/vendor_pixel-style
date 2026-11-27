@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomizationOptionEntrySubtitleTextStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/rro_system_on_surface_variant</item>
+        <item name="android:fontFamily">@*android:string/config_bodyFontFamily</item>
+    </style>
+    <style name="CustomizationOptionEntryTitleTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/rro_system_on_surface</item>
+        <item name="android:fontFamily">@*android:string/config_headlineFontFamily</item>
+    </style>
+    <style name="SectionTitleTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/rro_system_on_surface</item>
+        <item name="android:fontFamily">@*android:string/config_headlineFontFamily</item>
+        <item name="android:textDirection">locale</item>
+        <item name="android:lineHeight">24sp</item>
+    </style>
+</resources>
